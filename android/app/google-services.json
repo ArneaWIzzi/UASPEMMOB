@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106222401529",
+    "project_id": "loginauthbyarnea",
+    "storage_bucket": "loginauthbyarnea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106222401529:android:aae15e99333f89250baf28",
+        "android_client_info": {
+          "package_name": "bismillahcoba.uts_arnea_wanda_izzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106222401529-bskp4vonriv997ncvoob94q71pem9i83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGdd86uvklrhtx3N10YuOKPuajd8MMBHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106222401529-bskp4vonriv997ncvoob94q71pem9i83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
